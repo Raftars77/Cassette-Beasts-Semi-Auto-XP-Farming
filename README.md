@@ -3,6 +3,7 @@
 Code made for farming 5 star tapes on game Cassette Beasts, usefull if you are trying to get the [Cassette Beasts Master achievement](https://www.trueachievements.com/a391025/cassette-beasts-master-achievement).
 
 The code is set around timing between keys pulsations, those timing are set acording to personal preference and tests on own game sesions. If you want to use this code for your own sesions you should test and adjust the timings to your game.
+Also images are set with spanish text, if you are playing in other idiom you should replace actual screenshots with new ones.
 
 The strategy to follow is set two Khepri with headshot sticker and the rest random starter sticker, set your character in front of the **Bard Street Station** door outside of the station and start the game.
 
