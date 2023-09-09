@@ -9,7 +9,7 @@ The strategy to follow is set two Khepri with headshot sticker and the rest rand
 
 ![Bard Street Station](https://wiki.cassettebeasts.com/images/thumb/a/af/Bard_Street_Station_exterior.png/210px-Bard_Street_Station_exterior.png)
 
-This will kill **Robin Goodfellow** until one of your tapes lvl up to 5 starts, then it will pause to let you go change the tape for another one, set the character at start point and unpause the program so the loop can start again.
+This will kill **Robin Goodfellow** until one of your tapes lvl up to 5 starts, then it will make a sound letting you know at least one tape has reached 5 stars and will pause the loop to let you go change the tape for another one, set the character at start point and unpause the program so the loop can start again.
 
 ![Robin Goodfellow](https://wiki.cassettebeasts.com/images/b/b3/Robin_Goodfellow.png)
 
